@@ -1,1 +1,1 @@
-# git2
+mvn verify -Denv=qa -Dbrowser=chrome -Dcucumber.filter.tags="@smoke"
